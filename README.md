@@ -26,11 +26,11 @@ git push -u origin master
 8. Checar historial de cambios 
 git log
 
-##Páginas de Git
+###Páginas de Git
 1. https://git-scm.com/docs/gittutorial
 2. https://git-scm.com/downloads
 
-##########Comandos Usados
+###Comandos Usados
 Comandos
 1. git config --global user.name "Carlinne"
 2. git config --global user.email carli.pacheco95@gmail.com
