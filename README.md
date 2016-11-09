@@ -27,20 +27,23 @@ git push -u origin master
 git log
 
 ##Páginas de Git
-https://git-scm.com/docs/gittutorial
-https://git-scm.com/downloads
+1. https://git-scm.com/docs/gittutorial
+2. https://git-scm.com/downloads
 
-##Comandos Usados
+##########Comandos Usados
 Comandos
-git config --global user.name "Carlinne"
-git config --global user.email carli.pacheco95@gmail.com
+1. git config --global user.name "Carlinne"
+2. git config --global user.email carli.pacheco95@gmail.com
 git init
-git status
+3. git status
 //Aparecen los 2 archivos creados
+4. Añadir archivos
 git add .gitignore
 git add README.md
+5. Estado de un archivo
 git status
 //Los 2 archivos aparecen en verde 
+6. Modificaciones
 git commit -m "Agregado Archivos Iniciales, .gitignore, README"
 git log
 
